@@ -1,7 +1,7 @@
 {
   "name": "node-red-contrib-pulseaudio",
   "version": "0.1.0",
-  "description": "provides functionality similar to pavucontrol.",
+  "description": "provides functionality similar to pavucontrol and ...",
   "dependencies": {
     "paclient": "^0.0.2"
   },
