@@ -28,7 +28,7 @@
   },
   "node-red" : {
     "nodes": {
-        "pulseaudio": "pulseaudio/pulseaudio.js"
+        "pulseaudio": "nodes/pulseaudio.js"
     }
   }
 }
